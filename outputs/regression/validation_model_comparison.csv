@@ -1,0 +1,4 @@
+candidate,validation_MAE,validation_RMSE,validation_R2,parameters
+1,7.542981940736958,11.05096354249827,0.9889229883536732,"{'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.03, 'min_child_weight': 5, 'subsample': 0.8, 'colsample_bytree': 0.8, 'reg_alpha': 1.0, 'reg_lambda': 10.0}"
+2,6.33374326019661,9.697837998746646,0.991469545516746,"{'n_estimators': 300, 'max_depth': 3, 'learning_rate': 0.03, 'min_child_weight': 5, 'subsample': 0.8, 'colsample_bytree': 0.8, 'reg_alpha': 1.0, 'reg_lambda': 10.0}"
+3,7.205809257357728,10.714384702201563,0.9895874573929755,"{'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05, 'min_child_weight': 8, 'subsample': 0.75, 'colsample_bytree': 0.75, 'reg_alpha': 2.0, 'reg_lambda': 15.0}"
