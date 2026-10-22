@@ -1,0 +1,5 @@
+Model,Test R2 (%),Test MAE,Test RMSE
+XGBoost,86.63,15.3435,38.1241
+Random Forest (Moderately Regularized),93.3782,19.178475,26.997305
+SVR-CatBoost Hybrid,95.7,,
+SVR-CatBoost-LightGBM (C-S-GBM),94.77,12.862,24.0013

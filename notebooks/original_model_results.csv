@@ -1,0 +1,5 @@
+Model,R2 Score (%)
+XGBoost,86.63
+Random Forest,93.3782
+SVR-CatBoost,95.7
+C-S-GBM,94.77
