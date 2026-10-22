@@ -1,0 +1,5 @@
+Model,R2,MAE,RMSE,Evaluation
+Existing XGBoost,0.8663,15.3435,38.1241,Earlier experiment
+Random Forest,0.933782,19.178475,26.997305,Earlier experiment
+Simplified CatBoost,0.946992427275702,16.742466098723842,24.154735445680615,Current test split
+Proposed CatBoost-SVR Hybrid,0.9575846535246533,14.322018197037009,21.607018102668025,Current test split
